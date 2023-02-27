@@ -5,7 +5,7 @@
 <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img>
 
 
-- 🔭 I’m currently working on **G-TRACK - Debt Recovery Management SOLUTION** G-Track is a dynamic web application designed to help micro-financial institutions keep track of debtors, debts, payments, etc. in a seamless and efficient manner. The project has support for system automation, Role Based Accessibility (RBA), Reminders, and seamless integration into other web applications.
+- 🔭 I’m currently working on **G-TRACK - Debt Recovery Management Solution.** G-Track is a dynamic web application designed to help micro-financial institutions keep track of debtors, debts, payments, etc. in a seamless and efficient manner. The project has support for system automation, Role Based Accessibility (RBA), Reminders, and seamless integration into other web applications.
 
 - 🔭 I’m currently working on **OCTAGON** Octagon is a multi-vendor ecommerce platform for promoting locally made products and giving such products the needed visibility in global markets. Working on this project is a complete tech team of product managers, UI/UX designers, graphic designers, front-end engineers, backend engineers, etc.
 
