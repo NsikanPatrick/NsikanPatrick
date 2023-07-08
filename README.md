@@ -5,15 +5,17 @@
 <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img>
 
 
+- 🔭 I’m currently working on **AUXURE.** AUXURE is a single-vendor ecommerce platform for a perfume brand. The platform allows perfume lovers to pick their favourites based on the fragrance, price or gender. Working on this project is a team of product managers, UI/UX designers, graphic designers, front-end engineers, backend engineers, etc.
+
+
 - 🔭 I’m currently working on **G-TRACK - Debt Recovery Management Solution.** G-Track is a dynamic web application designed to help micro-financial institutions keep track of debtors, debts, payments, etc. in a seamless and efficient manner. The project has support for system automation, Role Based Accessibility (RBA), Reminders, and seamless integration into other web applications.
 
-- 🔭 I’m currently working on **OCTAGON.** Octagon is a multi-vendor ecommerce platform for promoting locally made products and giving such products the needed visibility in global markets. Working on this project is a complete tech team of product managers, UI/UX designers, graphic designers, front-end engineers, backend engineers, etc.
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **JavaScript And React Js**
 
 - 👯 I’m looking to collaborate on **Full Stack or Backend Projects**
 
-- 📫 How to reach me **nsikanpatrick69@gmail.com**
+- 📫 How to reach me **nsikanpatrick69@gmail.com And @nsikanadaowo on all social media platorms**
 
 
 
