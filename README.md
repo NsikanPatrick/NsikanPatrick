@@ -21,7 +21,7 @@ ensure a seamless integration between frontend and backend systems.
 
 - 👯 I’m looking to collaborate on user centric and scale driven **Full Stack or Backend Projects**
 
-- 📫 How to reach me **nsikanpatrick69@gmail.com And @nsikanadaowo on all social media platorms**
+- 📫 How to reach me: **nsikanpatrick69@gmail.com And @nsikanadaowo on all social media platorms**
 - - -
 
 
