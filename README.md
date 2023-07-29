@@ -5,7 +5,12 @@
 <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img>
 
 
-- 🔭 I’m currently working on **AUXURE.** AUXURE is a single-vendor ecommerce platform for a perfume brand. The platform allows perfume lovers to pick their favourites based on the fragrance, price or gender. Working on this project is a team of product managers, UI/UX designers, graphic designers, front-end engineers, backend engineers, etc.
+- 🔭 I’m currently working on **AUXURE.** AUXURE is a single-vendor ecommerce brand for the perfume niche. Working on this project is a team of product managers, UI/UX designers, graphic designers, front-end and backend developers, etc.
+**MY RESPONSIBILITIES.**
+- Designing RESTfuI web services using Django Rest Framework.
+- Building test cases and suites for the API endpoints to ensure system reliability (Pytest).
+- Collaborating with developers (Frontend and Backend) and product designers to
+ensure a seamless integration between frontend and backend systems.
 
 
 - 🔭 I’m currently working on **G-TRACK - Debt Recovery Management Solution.** G-Track is a dynamic web application designed to help micro-financial institutions keep track of debtors, debts, payments, etc. in a seamless and efficient manner. The project has support for system automation, Role Based Accessibility (RBA), Reminders, and seamless integration into other web applications.
@@ -13,7 +18,7 @@
 
 - 🌱 I’m currently learning **JavaScript And React Js**
 
-- 👯 I’m looking to collaborate on **Full Stack or Backend Projects**
+- 👯 I’m looking to collaborate on user centric and scale driven **Full Stack or Backend Projects**
 
 - 📫 How to reach me **nsikanpatrick69@gmail.com And @nsikanadaowo on all social media platorms**
 
