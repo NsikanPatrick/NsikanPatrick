@@ -6,7 +6,7 @@
 
 
 - 🔭 I’m currently working on **AUXURE.** AUXURE is a single-vendor ecommerce brand for the perfume niche. Working on this project is a team of product managers, UI/UX designers, graphic designers, front-end and backend developers, etc.
-**MY RESPONSIBILITIES.**
+- **MY RESPONSIBILITIES.**
 - Designing RESTfuI web services using Django Rest Framework.
 - Building test cases and suites for the API endpoints to ensure system reliability (Pytest).
 - Collaborating with developers (Frontend and Backend) and product designers to
