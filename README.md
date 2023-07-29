@@ -5,7 +5,7 @@
 <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img>
 
 
-- 🔭 I’m currently working on **AUXURE.** AUXURE is a single-vendor ecommerce brand for the perfume niche. Working on this project is a team of product managers, UI/UX designers, graphic designers, front-end and backend developers, etc.
+- 🔭 I’m currently working on **AUXURE.** AUXURE is a single-vendor ecommerce brand for a perfume niche. Working on this project is a team of product managers, UI/UX designers, graphic designers, front-end and backend developers, etc.
 - **MY RESPONSIBILITIES.**
 - Designing RESTfuI web services using Django Rest Framework.
 - Building test cases and suites for the API endpoints to ensure system reliability (Pytest).
