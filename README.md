@@ -15,7 +15,7 @@ ensure a seamless integration between frontend and backend systems.
 - - - - -
 - 🔭 I’m currently working on **G-TRACK - Debt Recovery Management Solution.** G-Track is a dynamic web application designed to help micro-financial institutions keep track of debtors, debts, payments, etc. in a seamless and efficient manner. The project has support for system automation, Role Based Accessibility (RBA), Reminders, and seamless integration into other web applications.
 
-- - 
+- - -
 
 - 🌱 I’m currently learning **JavaScript And React Js**
 
