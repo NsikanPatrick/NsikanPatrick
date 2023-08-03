@@ -24,7 +24,7 @@ ensure a seamless integration between frontend and backend systems.
 
 - 🌱 I’m currently learning **JavaScript And React Js**
 
-- 👯 I’m looking to collaborate on user centric and scale driven **Full Stack or Backend Projects**
+- 👯 I’m looking to collaborate on projects that are user centric and scale driven **Full Stack or Backend**
 
 - 📫 How to reach me: **nsikanpatrick69@gmail.com And @nsikanadaowo on all social media platorms**
 - - -
