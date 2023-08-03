@@ -8,6 +8,7 @@
 I have a passion for creating intuitive and visually appealing web applications that provide seamless user experiences.
 With a strong background in computer science and a keen eye for design, I have the skills and experience necessary to turn complex project requirements into functional, high-quality digital products.
 Outside of work, I enjoy staying up-to-date with the latest trends and techniques in web development and software engineering, and I'm always looking for new challenges and opportunities to grow my skillset. I am also a strong believer in the power of collaboration, and enjoy working with a team to create innovative and impactful projects.
+- Got an idea? shoot me a message @ nsikanpatrick69@gmail.com
 -----
 - 🔭 I’m currently working on **AUXURE.** AUXURE is a single-vendor ecommerce brand for the bodycare niche. Working on this project is a team of product managers, UI/UX designers, graphic designers, front-end and backend developers, etc.
 - **MY RESPONSIBILITIES.**
