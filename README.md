@@ -4,7 +4,7 @@
 <h3 align="center">I am a full stack web developer</h3>
 <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img>
 
-- A full stack developer (Backend heavy) with a keen interest in bringing amazing ideas to life, and facilitating the ease of availability of digital content.
+- A full stack developer (Backend heavy) with a keen interest in bringing amazing ideas to life, and building innovative applications that shape the world.
 I have a passion for creating intuitive and visually appealing web applications that provide seamless user experiences.
 With a strong background in computer science and a keen eye for design, I have the skills and experience necessary to turn complex project requirements into functional, high-quality digital products.
 Outside of work, I enjoy staying up-to-date with the latest trends and techniques in web development and software engineering, and I'm always looking for new challenges and opportunities to grow my skillset. I am also a strong believer in the power of collaboration, and enjoy working with a team to create innovative and impactful projects.
