@@ -5,13 +5,23 @@
 <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img>
 
 - A full stack developer (Backend heavy) with a keen interest in bringing amazing ideas to life, and building innovative applications that shape the world.
-I have a passion for creating intuitive and visually appealing web applications that provide seamless user experiences.
+I am deeply invested in crafting appealing web applications that provide seamless user experiences.
 With a strong background in computer science and a keen eye for design, I have the skills and experience necessary to turn complex project requirements into functional, high-quality digital products.
 Outside of work, I enjoy staying up-to-date with the latest trends and techniques in web development and software engineering, and I'm always looking for new challenges and opportunities to grow my skillset. I am also a strong believer in the power of collaboration, and enjoy working with a team to create innovative and impactful projects.
 - Got an idea? shoot me a message @ nsikanpatrick69@gmail.com
 - Visit https://nsikanadaowo.onrender.com to know more about me.
+
 -----
-- 🔭 I’m currently working on **AUXURE.** AUXURE is a single-vendor ecommerce brand for the bodycare niche. Working on this project is a team of product managers, UI/UX designers, graphic designers, front-end and backend developers, etc.
+- 🔭 I'm currently working on  **[ZigmaKit](https://github.com/NsikanPatrick/ZigmaKit).** ZIGMAKIT is a comprehensive toolkit designed to streamline the digital nomad lifestyle by providing essential tools for managing files, collaborating on documents, and enhancing multimedia content, etc. This project is built with Python Django, React.js, and Tailwind CSS, Zigmakit empowers digital nomads to simplify their digital workflows giving them more time to really concentrate on the project at hand.
+- **MY RESPONSIBILITIES.**
+- Designing backend services using Python Django.
+- Integrating the frontend desinged with ReactJs and TailwindCSS.
+- Collaborating with developers (Frontend and Backend) by making the project an open source.
+
+- - - - -
+
+-----
+- 🔭 I led the development of **[AUXURE API](https://github.com/NsikanPatrick/auxure-backend).** AUXURE is API for a single-vendor ecommerce brand mainly for the bodycare niche. Working on this project was a team of product managers, UI/UX designers, graphic designers, front-end and backend developers, etc.
 - **MY RESPONSIBILITIES.**
 - Designing RESTfuI web services using Django Rest Framework.
 - Building test cases and suites for API endpoints to ensure system reliability (Pytest).
@@ -19,11 +29,13 @@ Outside of work, I enjoy staying up-to-date with the latest trends and technique
 ensure a seamless integration between frontend and backend systems.
 
 - - - - -
-- 🔭 I’m currently working on **G-TRACK - Debt Recovery Management Solution.** G-Track is a dynamic web application designed to help micro-lending institutions keep track of debtors, debts, payments, etc. in a seamless and efficient manner. The project has support for system automation, Role Based Accessibility (RBA), Reminders, and seamless integration into other web services.
+- 🔭 I worked on **[G-TRACK - Debt Recovery Management Solution](https://github.com/NsikanPatrick/G-Track).** G-Track is a dynamic web application designed to help micro-lending institutions keep track of debtors, debts, payments, etc. in a seamless and efficient manner. The project has support for system automation, Role Based Accessibility (RBA), Reminders, and seamless integration into other web services.
 
 - - -
 
 - 🌱 I’m currently learning **JavaScript And React Js**
+
+- 🌱 I’m currently collaborating and contributing to **Open Source Projects**
 
 - 👯 I’m looking to collaborate on projects that are user centric and scale driven **(Full Stack or Backend)**
 
