@@ -15,7 +15,7 @@ Outside of work, I enjoy staying up-to-date with the latest trends and technique
 - 🔭 I'm currently working on  **[ZigmaKit](https://github.com/NsikanPatrick/ZigmaKit).** ZIGMAKIT is a comprehensive toolkit designed to streamline the digital nomad lifestyle by providing essential tools for managing files, collaborating on documents, and enhancing multimedia content, etc. This project is built with Python Django, React.js, and Tailwind CSS, Zigmakit empowers digital nomads to simplify their digital workflows giving them more time to really concentrate on the project at hand.
 - **MY RESPONSIBILITIES.**
 - Designing backend services using Python Django.
-- Integrating the frontend desinged with ReactJs and TailwindCSS.
+- Integrating the frontend designed with ReactJs and TailwindCSS.
 - Collaborating with developers (Frontend and Backend) by making the project an open source.
 
 - - - - -
