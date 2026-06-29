@@ -4,12 +4,19 @@
 <h3 align="center">I am a full stack web developer</h3>
 <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img>
 
-- A full stack developer (Backend heavy) with a keen interest in bringing amazing ideas to life, and building innovative applications that shape the world.
-I am deeply invested in crafting appealing web applications that provide seamless user experiences.
-With a strong background in computer science and a keen eye for design, I have the skills and experience necessary to turn complex project requirements into functional, high-quality digital products.
-Outside of work, I enjoy staying up-to-date with the latest trends and techniques in web development and software engineering, and I'm always looking for new challenges and opportunities to grow my skillset. I am also a strong believer in the power of collaboration, and enjoy working with a team to create innovative and impactful projects.
+- I'm a full-stack developer who fell in love with AI's potential to automate the boring stuff.
+
+For the past few years, I've been building AI-powered tools for e-commerce sellers — because I believe that creatives and entrepreneurs should focus their time on delivering value through their work, not on writing product descriptions or setting up chatbots.
+
+My latest project: NanoPixl  — Allows store owners to upload a product photo, get a complete, SEO-optimized listing for Amazon, eBay, Etsy, or Shopify. 
+Under the hood, it uses multimodal LLMs  to "see" the product and generate platform-compliant copy in seconds.
+
+Before  then, I invested my time in building storefronts and AI chatbot for e-commerce stores (product  recommendations, order tracking, customer support) and a full-stack auth  system that handles authentication, authorization, and session management in the ecommerce domain.
+
+I work primarily with TypeScript, Next.js, NestJS, and LLM APIs. I love  turning research papers and API docs into clean, reliable software that  people actually use.
+
+I build in public. I ship fast. And I'm always looking for the next problem to solve.
 - Got an idea? shoot me a message @ nsikanpatrick69@gmail.com
-- Visit https://nsikanadaowo.onrender.com to know more about me.
 
 -----
 - 🔭 I'm currently working on  **[ZigmaKit](https://github.com/NsikanPatrick/ZigmaKit).** ZIGMAKIT is a comprehensive toolkit designed to streamline the digital nomad lifestyle by providing essential tools for managing files, collaborating on documents, and enhancing multimedia content, etc. This project is built with Python Django, React.js, and Tailwind CSS, Zigmakit empowers digital nomads to simplify their digital workflows giving them more time to really concentrate on the project at hand.
