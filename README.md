@@ -1,9 +1,9 @@
 <img src='https://www.ismartrecruit.com/upload/blog/main_image/6_ways_to_find_and_hire_developers_at_a_low_cost.jpg' alt="banner" height="300" width="100%"></img>
 
 <h1 align="center">Hi 👋, I'm Nsikan Patrick Adaowo</h1>
-<h3 align="center">I am a full stack web developer</h3>
+<h3 align="center">I am a full stack web developer</h3> 
 <!-- <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img> -->
-<img src='[https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg](https://drive.google.com/file/d/13vB12JTvUY9vMoTqyxyqqNRXpTg59KX3/view?usp=sharing)' alt="banner" width="300" height="300" align="right"></img>
+<img src="https://res.cloudinary.com/dp5nlghtb/image/upload/v1782834497/Post_1_bvqgid.png" alt="banner" width="300" height="300" align="right">
 
 I'm a full-stack developer who fell in love with AI's potential to automate the boring stuff.
 
@@ -23,7 +23,7 @@ I build in public. I ship fast. And I'm always looking for the next problem to s
 
 - 🔭 I'm currently building **[NanoPixl][(https://github.com/NsikanPatrick/nanopixl)]. — an AI-powered listing generator that turns product photos into platform-optimized e-commerce copy in seconds. No typing. No writer's block. Just upload, generate, and sell.
   
-## **CORE FEATURES**:
+**CORE FEATURES**:
 
 - Single & batch image upload (up to 50 at a time)
 
@@ -39,7 +39,7 @@ I build in public. I ship fast. And I'm always looking for the next problem to s
 
 - Referral program for viral growth
 
-## **ARCHITECTURE & TECH:**
+**ARCHITECTURE & TECH:**
 
 - 🖥️ Frontend — Next.js 14 (App Router), Tailwind CSS, Server Actions
 
@@ -153,9 +153,9 @@ ensure a seamless integration between frontend and backend systems.
     <img src="https://www.vectorlogo.zone/logos/resend/resend-icon.svg" alt="resend" width="40" height="40"/>
   </a>
   <!-- Cloudinary -->
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="cloudinary" width="40" height="40"/>
-  </a>
+  </a> -->
   <!-- Jest -->
   <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
