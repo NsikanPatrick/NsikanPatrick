@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nsikan Patrick Adaowo</h1>
 <h3 align="center">I am a full stack web developer</h3> 
 <!-- <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img> -->
-<img src="https://res.cloudinary.com/dp5nlghtb/image/upload/v1782834497/Post_1_bvqgid.png" alt="banner" height="250" style="width: auto;" align="right">
+<img src="https://res.cloudinary.com/dp5nlghtb/image/upload/v1782834497/Post_1_bvqgid.png" alt="banner" width="300" style="height: auto;" align="right">
 
 I'm a full-stack developer who fell in love with AI's potential to automate the boring stuff.
 
