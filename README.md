@@ -17,7 +17,7 @@ Before  then, I invested my time in building storefronts and AI chatbot for e-co
 I work primarily with TypeScript, Next.js, NestJS, and LLM APIs. I love  turning research papers and API docs into clean, reliable software that  people actually use.
 
 I build in public. I ship fast. And I'm always looking for the next problem to solve.
-- Got an idea? shoot me a message @ nsikanpatrick69@gmail.com
+- Got an idea? Let's bring it to live. Shoot me a message: nsikanpatrick69@gmail.com
 
 -----
 
