@@ -21,7 +21,7 @@ I build in public. I ship fast. And I'm always looking for the next problem to s
 
 -----
 
-- 🔭 I'm currently building **[NanoPixl](https://github.com/NsikanPatrick/nanopixl)**. — an AI-powered listing generator that turns product photos into platform-optimized e-commerce copy in seconds. No typing. No writer's block. Just upload, generate, and sell.
+🔭 I'm currently building **[NanoPixl](https://github.com/NsikanPatrick/nanopixl)**. — an AI-powered listing generator that turns product photos into platform-optimized e-commerce copy in seconds. No typing. No writer's block. Just upload, generate, and sell.
   
 **CORE FEATURES**:
 
@@ -56,7 +56,7 @@ I build in public. I ship fast. And I'm always looking for the next problem to s
 - 🧪 Testing — Jest (backend), React Testing Library (frontend)
 
 - - - - -
-- 🔭 I built  **[Vouch](https://github.com/NsikanPatrick/vouch) · [Live Demo](https://vouch-utility.vercel.app/).** VOUCH is a production-ready, open-source authentication engine built with NestJS and Next.js. It handles the heavy lifting—JWT tokens, refresh rotation, OTP magic links, Google OAuth, RBAC, and email tracking—so you can focus on building your product, not your auth.
+🔭 I built  **[Vouch](https://github.com/NsikanPatrick/vouch) · [Live Demo](https://vouch-utility.vercel.app/).** VOUCH is a production-ready, open-source authentication engine built with NestJS and Next.js. It handles the heavy lifting—JWT tokens, refresh rotation, OTP magic links, Google OAuth, RBAC, and email tracking—so you can focus on building your product, not your auth.
 
 **KEY DELIVERABLES.**
 - 🔐 Enterprise-grade security out of the box
