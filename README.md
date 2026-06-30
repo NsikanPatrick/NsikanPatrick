@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nsikan Patrick Adaowo</h1>
 <h3 align="center">I am a full stack web developer</h3> 
 <!-- <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img> -->
-<img src="https://res.cloudinary.com/dp5nlghtb/image/upload/v1782834497/Post_1_bvqgid.png" alt="banner" width="300" height="300" align="right">
+<img src="https://res.cloudinary.com/dp5nlghtb/image/upload/v1782834497/Post_1_bvqgid.png" alt="banner" height="250" style="width: auto;" align="right">
 
 I'm a full-stack developer who fell in love with AI's potential to automate the boring stuff.
 
@@ -21,7 +21,7 @@ I build in public. I ship fast. And I'm always looking for the next problem to s
 
 -----
 
-- 🔭 I'm currently building **[NanoPixl][(https://github.com/NsikanPatrick/nanopixl)]. — an AI-powered listing generator that turns product photos into platform-optimized e-commerce copy in seconds. No typing. No writer's block. Just upload, generate, and sell.
+- 🔭 I'm currently building **[NanoPixl](https://github.com/NsikanPatrick/nanopixl)**. — an AI-powered listing generator that turns product photos into platform-optimized e-commerce copy in seconds. No typing. No writer's block. Just upload, generate, and sell.
   
 **CORE FEATURES**:
 
@@ -56,7 +56,7 @@ I build in public. I ship fast. And I'm always looking for the next problem to s
 - 🧪 Testing — Jest (backend), React Testing Library (frontend)
 
 - - - - -
-- 🔭 I built  **[Vouch][(https://github.com/NsikanPatrick/vouch)](https://vouch-utility.vercel.app/).** VOUCH is a production-ready, open-source authentication engine built with NestJS and Next.js. It handles the heavy lifting—JWT tokens, refresh rotation, OTP magic links, Google OAuth, RBAC, and email tracking—so you can focus on building your product, not your auth.
+- 🔭 I built  **[Vouch](https://github.com/NsikanPatrick/vouch) · [Live Demo](https://vouch-utility.vercel.app/).** VOUCH is a production-ready, open-source authentication engine built with NestJS and Next.js. It handles the heavy lifting—JWT tokens, refresh rotation, OTP magic links, Google OAuth, RBAC, and email tracking—so you can focus on building your product, not your auth.
 
 **KEY DELIVERABLES.**
 - 🔐 Enterprise-grade security out of the box
