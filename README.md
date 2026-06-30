@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Nsikan Patrick Adaowo</h1>
 <h3 align="center">I am a full stack web developer</h3>
-<img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img>
+<!-- <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img> -->
+<img src='[https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg](https://drive.google.com/file/d/13vB12JTvUY9vMoTqyxyqqNRXpTg59KX3/view?usp=sharing)' alt="banner" width="300" height="300" align="right"></img>
 
-- I'm a full-stack developer who fell in love with AI's potential to automate the boring stuff.
+I'm a full-stack developer who fell in love with AI's potential to automate the boring stuff.
 
 For the past few years, I've been building AI-powered tools for e-commerce sellers — because I believe that creatives and entrepreneurs should focus their time on delivering value through their work, not on writing product descriptions or setting up chatbots.
 
@@ -19,11 +20,70 @@ I build in public. I ship fast. And I'm always looking for the next problem to s
 - Got an idea? shoot me a message @ nsikanpatrick69@gmail.com
 
 -----
-- 🔭 I'm currently working on  **[ZigmaKit](https://github.com/NsikanPatrick/ZigmaKit).** ZIGMAKIT is a comprehensive toolkit designed to streamline the digital nomad lifestyle by providing essential tools for managing files, collaborating on documents, and enhancing multimedia content, etc. This project is built with Python Django, React.js, and Tailwind CSS, Zigmakit empowers digital nomads to simplify their digital workflows giving them more time to really concentrate on the project at hand.
-- **MY RESPONSIBILITIES.**
-- Designing backend services using Python Django.
-- Integrating the frontend designed with ReactJs and TailwindCSS.
-- Collaborating with developers (Frontend and Backend) by making the project an open source.
+
+- 🔭 I'm currently building **[NanoPixl][(https://github.com/NsikanPatrick/nanopixl)]. — an AI-powered listing generator that turns product photos into platform-optimized e-commerce copy in seconds. No typing. No writer's block. Just upload, generate, and sell.
+  
+## **CORE FEATURES**:
+
+- Single & batch image upload (up to 50 at a time)
+
+- Tone-aware generation (Professional, Playful, Luxury, Minimalist, Friendly)
+
+- Platform-specific output formatting
+
+- Regenerate individual fields (title, description, tags, etc.)
+
+- Export to CSV, JSON, or plain text
+
+- History with search & filtering
+
+- Referral program for viral growth
+
+## **ARCHITECTURE & TECH:**
+
+- 🖥️ Frontend — Next.js 14 (App Router), Tailwind CSS, Server Actions
+
+- ⚙️ Backend — NestJS, PostgreSQL, Prisma, Redis (caching)
+
+- 🤖 AI Integration — Gemini 1.5 Flash (vision + text), optional OpenAI fallback
+
+- 📊 Streaming — Server-Sent Events (SSE) for real-time generation
+
+- 🔐 Authentication — Custom JWT auth with refresh rotation (integrated from Vouch)
+
+- 🗂️ Image handling — Sharp for compression, perceptual hashing for caching
+
+- 🧪 Testing — Jest (backend), React Testing Library (frontend)
+
+- - - - -
+- 🔭 I built  **[Vouch][(https://github.com/NsikanPatrick/vouch)](https://vouch-utility.vercel.app/).** VOUCH is a production-ready, open-source authentication engine built with NestJS and Next.js. It handles the heavy lifting—JWT tokens, refresh rotation, OTP magic links, Google OAuth, RBAC, and email tracking—so you can focus on building your product, not your auth.
+
+**KEY DELIVERABLES.**
+- 🔐 Enterprise-grade security out of the box
+
+- 🧩 Modular architecture that integrates seamlessly
+
+- ⚡ Event-driven email with transactional tracking
+
+- 🧪 Well-tested code with 70%+ coverage
+
+- 📦 Zero lock-in—open source and MIT licensed.
+
+**FEATURES**:
+- 🔐 Complete auth (register, login, email verification, password reset, account lockout)
+- 🔄 Refresh token rotation with reuse detection
+- 📱 OTP passwordless login + magic links
+- 👥 Google OAuth 2.0 integration
+- 🛡️ RBAC with User/Admin roles
+- 📧 Event-driven email with Resend & webhooks
+- 📊 Email analytics dashboard
+- 🧪 70%+ test coverage
+
+**ARCHITECTURE & TECH**:
+- 🖥️ Frontend — Next.js 14, Tailwind CSS, shadcn/ui
+- ⚙️ Backend — NestJS, TypeORM, PostgreSQL
+- 🔐 Auth — JWT, Passport.js, bcrypt
+- 📧 Email — Resend, EventEmitter2
 
 - - - - -
 
@@ -40,18 +100,71 @@ ensure a seamless integration between frontend and backend systems.
 
 - - -
 
-- 🌱 I’m currently learning **JavaScript And React Js**
+- 🌱 I’m currently learning **TypeScript And NestJs**
 
 - 🌱 I’m currently collaborating and contributing to **Open Source Projects**
 
 - 👯 I’m looking to collaborate on projects that are user centric and scale driven **(Full Stack or Backend)**
 
-- 📫 How to reach me: **nsikanpatrick69@gmail.com And @nsikanadaowo on all social media platforms**
+- 📫 How to reach me: **nsikanpatrick69@gmail.com And @nsikanadaowo on social media platforms**
 - - -
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<h3 align="left">Tech Stack:</h3>
+<p align="left">
+  <!-- NestJS -->
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+  </a>
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="background: white; border-radius: 4px;"/>
+  </a>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  </a>
+  <!-- TypeORM -->
+  <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="typeorm" width="40" height="40"/>
+  </a>
+  <!-- JWT -->
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="40" height="40" style="background: white; border-radius: 4px; padding: 4px;"/>
+  </a>
+  <!-- Resend (custom icon - using envelope as placeholder) -->
+  <a href="https://resend.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/resend/resend-icon.svg" alt="resend" width="40" height="40"/>
+  </a>
+  <!-- Cloudinary -->
+  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="cloudinary" width="40" height="40"/>
+  </a>
+  <!-- Jest -->
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  </a>
+  <!-- Vercel -->
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40" style="background: white; border-radius: 4px;"/>
+  </a>
+</p>
 
 - - -
 
