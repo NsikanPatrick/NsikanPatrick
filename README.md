@@ -1,7 +1,7 @@
 <img src='https://www.ismartrecruit.com/upload/blog/main_image/6_ways_to_find_and_hire_developers_at_a_low_cost.jpg' alt="banner" height="300" width="100%"></img>
 
 <h1 align="center">Hi 👋, I'm Nsikan Patrick Adaowo</h1>
-<h3 align="center">I am a full stack web developer</h3> 
+<h3 align="center">I am a Full Stack AI Engineer</h3> 
 <!-- <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img> -->
 <img src="https://res.cloudinary.com/dp5nlghtb/image/upload/v1782834497/Post_1_bvqgid.png" alt="banner" width="300" style="height: auto;" align="right">
 
