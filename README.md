@@ -87,7 +87,52 @@ I build in public. I ship fast. And I'm always looking for the next problem to s
 
 - - - - -
 
+🔭 I built **[Scenthives](https://scenthives.vercel.app/).**  ScentHives is an e-commerce platform for premium perfumes, built with Next.js and NeonDB. It delivers a seamless shopping experience with dual-currency support (NGN/USD), secure Payment integration with Flutterwave, and a modern checkout flow—so you can focus on selling, not the tech.
+
+**KEY DELIVERABLES**:
+
+- 💳 Multi-currency payments (NGN + USD) with Paystack
+
+- 🌍 Geo-aware currency detection for local/international customers
+
+- 🛒 Cart management with persistent state across sessions
+
+- 📦 Real-time order tracking and fulfillment workflow
+
+- 🎨 Modern, responsive UI optimized for conversion
+
+**FEATURES**:
+
+- 💰 Dual-currency support (NGN & USD) with automatic detection
+
+- 🔐 Secure Flutterwave payment gateway integration
+
+- 📱 Fully responsive design for all devices
+
+- 🚚 Real-time shipping calculator and delivery estimates
+
+- 📧 Automated order confirmation emails
+
+- 📊 Admin dashboard for order management
+
+- 🧪 Order tracking system with status updates
+
+**ARCHITECTURE & TECH STACK**:
+
+- 🖥️ Frontend — Next.js 14, TypeScript, Tailwind CSS
+
+- 🗄️ Database — NeonDB (PostgreSQL) with Vercel Edge
+
+- 🔐 Auth — Better Auth
+
+- 💳 Payments — Flutterwave
+
+- 🌐 Deployment — Vercel with Edge Functions
+
+- 📊 Analytics — Vercel Analytics & Web Vitals
+
 -----
+
 - 🔭 I led the development of **[AUXURE API](https://github.com/NsikanPatrick/auxure-backend).** AUXURE is API for a single-vendor ecommerce brand mainly for the bodycare niche. Working on this project was a team of product managers, UI/UX designers, graphic designers, front-end and backend developers, etc.
 - **MY RESPONSIBILITIES.**
 - Designing RESTfuI web services using Django Rest Framework.
