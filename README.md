@@ -1,5 +1,5 @@
 <!-- <img src='https://www.ismartrecruit.com/upload/blog/main_image/6_ways_to_find_and_hire_developers_at_a_low_cost.jpg' alt="banner" height="300" width="100%"></img> -->
-<img src='https://res.cloudinary.com/dp5nlghtb/image/upload/v1783181703/Banner_fy5d5t.png' alt="banner" style="height: auto;" width="100%"></img>
+<img src='https://res.cloudinary.com/dp5nlghtb/image/upload/v1783590507/My_Banner_Image_scaxo1.png' alt="banner" style="height: auto;" width="100%"></img>
 
 <h1 align="center">Hi 👋, I'm Nsikan Patrick Adaowo</h1>
 <h3 align="center">I am a Full Stack AI Engineer</h3> 
