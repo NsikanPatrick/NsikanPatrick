@@ -1,6 +1,7 @@
 <!-- <img src='https://www.ismartrecruit.com/upload/blog/main_image/6_ways_to_find_and_hire_developers_at_a_low_cost.jpg' alt="banner" height="300" width="100%"></img> -->
 <!-- <img src='https://res.cloudinary.com/dp5nlghtb/image/upload/v1783590507/My_Banner_Image_scaxo1.png' alt="banner" style="height: auto;" width="100%"></img> -->
-<img src="https://res.cloudinary.com/dp5nlghtb/image/upload/v1783676755/My_Banner_-_Sharper_banner_l6msr0.png" alt="banner" style="height: auto;" width="100%">
+<!-- <img src="https://res.cloudinary.com/dp5nlghtb/image/upload/v1783676755/My_Banner_-_Sharper_banner_l6msr0.png" alt="banner" style="height: auto;" width="100%"> -->
+<img src="https://res.cloudinary.com/dp5nlghtb/image/upload/v1791051554/Minimalist_Backend_Engineer_Portfolio_Banner_ng3rk4.png" alt="banner" style="height: auto;" width="100%">
 
 <h1 align="center">Hi 👋, I am Nsikan Patrick Adaowo</h1>
 <h3 align="center">A Backend Engineer building AI-powered systems. </h3> 
