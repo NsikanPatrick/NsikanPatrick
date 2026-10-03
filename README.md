@@ -3,23 +3,28 @@
 <img src="https://res.cloudinary.com/dp5nlghtb/image/upload/v1783676755/My_Banner_-_Sharper_banner_l6msr0.png" alt="banner" style="height: auto;" width="100%">
 
 <h1 align="center">Hi 👋, I am Nsikan Patrick Adaowo</h1>
-<h3 align="center">A Full Stack AI Engineer</h3> 
+<h3 align="center">A Backend Engineer building AI-powered systems. </h3> 
 <!-- <img src='https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg' alt="banner" width="300" height="200" align="right"></img> -->
 <img src="https://res.cloudinary.com/dp5nlghtb/image/upload/v1782834497/Post_1_bvqgid.png" alt="banner" width="300" style="height: auto;" align="right">
 
-I'm a full-stack developer who fell in love with AI's potential to automate the boring stuff.
+Backend Engineer building AI-powered systems and writing about the engineering behind them.
 
 For the past few years, I've been building AI-powered tools for e-commerce sellers — because I believe that creatives and entrepreneurs should focus their time on delivering value through their work, not on writing product descriptions or setting up chatbots.
 
-My latest project: NanoPixl  — Allows store owners to upload a product photo, get a complete, SEO-optimized listing for Amazon, eBay, Etsy, or Shopify. 
+My project: NanoPixl  — Allows store owners to upload a product photo, get a complete, SEO-optimized listing for Amazon, eBay, Etsy, or Shopify. 
 Under the hood, it uses multimodal LLMs  to "see" the product and generate platform-compliant copy in seconds.
 
 Before  then, I invested my time in building storefronts and AI chatbot for e-commerce stores (product  recommendations, order tracking, customer support) and a full-stack auth  system that handles authentication, authorization, and session management in the ecommerce domain.
 
 I work primarily with TypeScript, Next.js, NestJS, and LLM APIs. I love  turning research papers and API docs into clean, reliable software that  people actually use.
 
-I build in public. I ship fast. And I'm always looking for the next problem to solve.
-- Got an idea? Let's bring it to live. Shoot me a message: nsikanpatrick69@gmail.com
+I also write technical deep-dives about the engineering decisions behind production systems — architecture, databases, APIs, reliability, performance, security, and AI-powered backends.
+
+I build, learn, and write in public.
+
+One system at a time.
+
+- Got an idea? Let's bring it to live. Shoot me a message => nsikanpatrick69@gmail.com
 
 -----
 
